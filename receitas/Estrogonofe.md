@@ -1,6 +1,6 @@
-#Estrogonofe de frango :chicken:
+# Estrogonofe de frango :chicken:
 
-###_Ingredientes_
+### _Ingredientes_
 
  - a
  - b
@@ -10,5 +10,5 @@
  - f
  - etc
 
-###_Modo de preparo_
+### _Modo de preparo_
  A gosto... rs.
